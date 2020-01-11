@@ -7,7 +7,7 @@
 ```js
 const speaker = (
   <Popover title="Title">
-    <p>This is a defalut Popover </p>
+    <p>This is a default Popover </p>
     <p>Content</p>
   </Popover>
 );
