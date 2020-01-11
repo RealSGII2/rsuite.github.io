@@ -48,7 +48,7 @@ const instance = (
       }
     >
       <p>March 3, 17:50</p>
-      <p>[Received]]</p>
+      <p>[Received]</p>
       <p>Your courier has arrived and the signer is the front desk</p>
     </Timeline.Item>
   </Timeline>
